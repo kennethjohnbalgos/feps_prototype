@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  section_id: 
+  section_category_id: 
+  user_id: 
+  blotter_id: MyString
+  requesting_party: MyString
+  requesting_officer: MyString
+  receiving_officer: MyString
+
+two:
+  section_id: 
+  section_category_id: 
+  user_id: 
+  blotter_id: MyString
+  requesting_party: MyString
+  requesting_officer: MyString
+  receiving_officer: MyString
